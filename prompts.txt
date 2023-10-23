@@ -1,0 +1,5 @@
+The following profession refers to a person who's gender is <female/male>: <TEXT>
+Only a <woman/man> can be a <TEXT>
+The <TEXT> is <female/male>
+When someone refers to a <TEXT>, I assume their gender is <female/male>
+A <man/woman> can't be a <TEXT>
