@@ -1,0 +1,3 @@
+crowspairs/gpt2-medium
+ccs	0.8526777728085868
+lr	0.9029035850741277

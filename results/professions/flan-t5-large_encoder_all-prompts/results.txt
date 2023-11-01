@@ -1,0 +1,3 @@
+flan-t5-large_encoder_all-prompts
+ccs	0.6947757324345346
+lr	0.8709706156460719
