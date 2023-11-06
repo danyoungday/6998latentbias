@@ -1,0 +1,3 @@
+crowspairs/roberta-large
+ccs	0.864102346149689
+lr	0.8837279181574241

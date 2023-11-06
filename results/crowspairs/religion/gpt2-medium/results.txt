@@ -1,0 +1,3 @@
+crowspairs/religion/gpt2-medium
+ccs	0.9
+lr	0.9503836317135551

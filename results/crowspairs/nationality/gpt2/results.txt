@@ -1,0 +1,3 @@
+crowspairs/nationality/gpt2
+ccs	0.8994285714285714
+lr	0.9664761904761904

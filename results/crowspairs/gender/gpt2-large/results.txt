@@ -1,0 +1,3 @@
+crowspairs/gender/gpt2-large
+ccs	0.7469635627530364
+lr	0.7765384615384616

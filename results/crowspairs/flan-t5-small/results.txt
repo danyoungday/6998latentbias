@@ -1,0 +1,3 @@
+crowspairs/flan-t5-small
+ccs	0.6671990171990173
+lr	0.802084743468255
