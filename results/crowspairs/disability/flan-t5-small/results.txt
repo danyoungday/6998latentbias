@@ -1,0 +1,3 @@
+crowspairs/disability/flan-t5-small
+ccs	0.5687645687645687
+lr	1.0

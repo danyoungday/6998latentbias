@@ -1,0 +1,3 @@
+crowspairs/gender/flan-t5-large
+ccs	0.7780172413793103
+lr	0.8080357142857143

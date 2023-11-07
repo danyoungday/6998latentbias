@@ -1,0 +1,3 @@
+crowspairs/nationality/roberta-large
+ccs	0.9665544332210999
+lr	0.9667037449017427

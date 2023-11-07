@@ -1,0 +1,3 @@
+crowspairs/race-color/flan-t5-base
+ccs	0.7790455158876213
+lr	0.9158455144071358

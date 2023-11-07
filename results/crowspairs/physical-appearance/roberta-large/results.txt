@@ -1,0 +1,3 @@
+crowspairs/physical-appearance/roberta-large
+ccs	0.6558441558441559
+lr	0.8181818181818182

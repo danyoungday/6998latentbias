@@ -1,0 +1,3 @@
+crowspairs/physical-appearance/flan-t5-base
+ccs	0.7132867132867133
+lr	0.9090909090909091

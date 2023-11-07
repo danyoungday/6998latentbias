@@ -1,0 +1,3 @@
+crowspairs/nationality/roberta-base
+ccs	0.7627384960718293
+lr	0.9665544332210999

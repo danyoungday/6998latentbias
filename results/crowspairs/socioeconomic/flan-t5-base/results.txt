@@ -1,0 +1,3 @@
+crowspairs/socioeconomic/flan-t5-base
+ccs	0.7779654654654655
+lr	0.8125

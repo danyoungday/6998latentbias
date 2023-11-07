@@ -1,0 +1,3 @@
+crowspairs/disability/flan-t5-base
+ccs	0.9172494172494172
+lr	0.9172494172494172

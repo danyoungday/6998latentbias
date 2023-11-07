@@ -1,0 +1,3 @@
+crowspairs/nationality/flan-t5-large
+ccs	0.76
+lr	0.9666295884315907
