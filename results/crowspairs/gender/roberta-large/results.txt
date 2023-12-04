@@ -1,0 +1,3 @@
+crowspairs/gender/roberta-large
+ccs	0.8125
+lr	0.96875

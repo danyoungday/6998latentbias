@@ -1,0 +1,3 @@
+crowspairs/age_disability_gender_nationality_physical-appearance_race-color_religion_sexual-orientation_socioeconomic/gpt2-large
+ccs	0.872093023255814
+lr	0.9224806201550387

@@ -9,6 +9,8 @@ This is my (Daniel Young's) project for CS E6998 002 Natural Language Generation
 
 ## Data
 - Professions data is from [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520) saved in `professions.json`
-- CrowS-Pairs data is from CrowS-Pairs paper (LINK TBD)
+- CrowS-Pairs data is from CrowS-Pairs paper (LINK TBD). We filter out antistereos.
+    - The CrowS-Pairs data has some errors listed here:
+        - Example 297 should have a period at the end
 - Hidden states are stored in `results/`
 - F1 score outputs are stored in `saved/`

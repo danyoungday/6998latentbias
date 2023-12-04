@@ -1,0 +1,3 @@
+crowspairs/religion/gpt2-large
+ccs	0.95
+lr	1.0

@@ -1,0 +1,3 @@
+crowspairs/socioeconomic/roberta-large
+ccs	0.96875
+lr	0.96875

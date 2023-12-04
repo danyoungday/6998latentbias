@@ -1,0 +1,3 @@
+crowspairs/nationality/flan-t5-base
+ccs	0.8666666666666667
+lr	0.9666666666666667

@@ -1,0 +1,3 @@
+crowspairs/socioeconomic/flan-t5-small
+ccs	0.90625
+lr	0.90625

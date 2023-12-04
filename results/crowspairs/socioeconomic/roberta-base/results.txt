@@ -1,0 +1,3 @@
+crowspairs/socioeconomic/roberta-base
+ccs	0.9375
+lr	0.875
