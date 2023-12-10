@@ -1,0 +1,3 @@
+crowspairs/physical-appearance/t5-large-enc
+ccs	0.9
+lr	0.7

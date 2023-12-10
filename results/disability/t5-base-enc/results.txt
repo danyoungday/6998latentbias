@@ -1,0 +1,3 @@
+disability/t5-base-enc
+ccs	0.8333333333333334
+lr	1.0

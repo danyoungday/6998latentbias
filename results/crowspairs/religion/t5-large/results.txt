@@ -1,0 +1,3 @@
+crowspairs/religion/t5-large
+ccs	0.65
+lr	0.7

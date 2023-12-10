@@ -1,0 +1,3 @@
+crowspairs/socioeconomic/t5-base
+ccs	0.59375
+lr	0.625

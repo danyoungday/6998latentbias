@@ -1,0 +1,3 @@
+socioeconomic/t5-base-enc
+ccs	0.875
+lr	0.9375

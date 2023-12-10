@@ -1,0 +1,3 @@
+crowspairs/religion/t5-base
+ccs	0.55
+lr	0.6

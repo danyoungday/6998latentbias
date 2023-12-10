@@ -1,0 +1,3 @@
+gender/t5-small-enc
+ccs	0.71875
+lr	0.75

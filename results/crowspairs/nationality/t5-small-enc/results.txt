@@ -1,0 +1,3 @@
+crowspairs/nationality/t5-small-enc
+ccs	0.9
+lr	0.9666666666666667

@@ -1,0 +1,3 @@
+crowspairs/gender/t5-small
+ccs	0.59375
+lr	0.59375
