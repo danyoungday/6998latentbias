@@ -1,3 +1,0 @@
-crowspairs/age_disability_gender_nationality_physical-appearance_race-color_religion_sexual-orientation_socioeconomic/flan-t5-large
-ccs	0.751937984496124
-lr	0.872093023255814

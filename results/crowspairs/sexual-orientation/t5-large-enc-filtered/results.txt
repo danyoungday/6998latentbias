@@ -1,3 +1,0 @@
-crowspairs/sexual-orientation/t5-large-enc
-ccs	0.9230769230769231
-lr	1.0

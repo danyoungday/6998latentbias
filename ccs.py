@@ -72,6 +72,8 @@ class Scaler():
         normalized_x /= (self.std + EPS)
         return normalized_x
     
+# START: Adapted from: https://github.com/collin-burns/discovering_latent_knowledge/blob/main/CCS.ipynb
+
 class MLPProbe(nn.Module):
     def __init__(self, d):
         super().__init__()
@@ -214,3 +216,5 @@ class CCS(object):
         avg_confidence = self.forward(neg, pos)
         predictions = (avg_confidence < 0.5).astype(int)[:, 0]
         return predictions
+    
+# END: Adapted from: https://github.com/collin-burns/discovering_latent_knowledge/blob/main/CCS.ipynb

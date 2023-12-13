@@ -1,3 +1,0 @@
-crowspairs/disability_gpt2
-ccs	0.7482517482517482
-lr	1.0

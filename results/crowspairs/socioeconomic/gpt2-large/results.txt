@@ -1,3 +1,3 @@
-crowspairs/socioeconomic/gpt2-large
+socioeconomic/gpt2-large
 ccs	0.875
 lr	0.84375

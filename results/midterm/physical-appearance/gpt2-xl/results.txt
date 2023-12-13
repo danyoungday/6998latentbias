@@ -1,3 +1,0 @@
-crowspairs/physical-appearance/gpt2-xl
-ccs	0.9106449106449106
-lr	0.8212121212121212

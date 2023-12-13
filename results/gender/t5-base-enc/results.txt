@@ -1,3 +1,0 @@
-gender/t5-base-enc
-ccs	0.90625
-lr	0.90625

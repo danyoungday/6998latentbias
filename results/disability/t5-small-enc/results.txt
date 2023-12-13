@@ -1,3 +1,0 @@
-disability/t5-small-enc
-ccs	0.75
-lr	0.9166666666666666

@@ -1,3 +1,0 @@
-crowspairs/nationality/flan-t5-small
-ccs	0.9333333333333333
-lr	0.9

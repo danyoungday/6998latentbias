@@ -1,3 +1,0 @@
-crowspairs/sexual-orientation/roberta-large
-ccs	1.0
-lr	1.0

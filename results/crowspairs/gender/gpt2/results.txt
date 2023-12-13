@@ -1,3 +1,3 @@
-crowspairs/gender/gpt2
+gender/gpt2
 ccs	0.75
 lr	0.78125

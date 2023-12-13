@@ -1,3 +1,0 @@
-crowspairs/sexual-orientation/flan-t5-small
-ccs	0.7185185185185186
-lr	1.0

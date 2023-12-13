@@ -1,3 +1,0 @@
-crowspairs/age/roberta-large
-ccs	0.5777777777777777
-lr	0.7333333333333333

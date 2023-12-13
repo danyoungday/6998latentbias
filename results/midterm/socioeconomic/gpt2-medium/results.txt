@@ -1,3 +1,0 @@
-crowspairs/socioeconomic/gpt2-medium
-ccs	0.905975073313783
-lr	0.9375

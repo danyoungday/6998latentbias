@@ -1,3 +1,0 @@
-crowspairs/physical-appearance/roberta-base
-ccs	0.6424242424242425
-lr	1.0

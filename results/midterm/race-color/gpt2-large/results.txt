@@ -1,3 +1,0 @@
-crowspairs/race-color/gpt2-large
-ccs	0.95783869611918
-lr	0.9894713504746236

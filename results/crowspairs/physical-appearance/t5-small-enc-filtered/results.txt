@@ -1,3 +1,0 @@
-crowspairs/physical-appearance/t5-small-enc
-ccs	1.0
-lr	1.0

@@ -1,3 +1,0 @@
-crowspairs/socioeconomic/t5-small
-ccs	0.5625
-lr	0.59375

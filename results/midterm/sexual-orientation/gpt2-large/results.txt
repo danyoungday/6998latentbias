@@ -1,3 +1,0 @@
-crowspairs/sexual-orientation/gpt2-large
-ccs	1.0
-lr	0.9333333333333333

@@ -1,3 +1,0 @@
-crowspairs/physical-appearance/t5-base
-ccs	1.0
-lr	0.7272727272727273

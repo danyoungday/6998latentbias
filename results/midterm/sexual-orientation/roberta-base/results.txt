@@ -1,3 +1,0 @@
-crowspairs/sexual-orientation/roberta-base
-ccs	0.9339366515837104
-lr	1.0

@@ -1,3 +1,0 @@
-crowspairs/sexual-orientation/gpt2-medium
-ccs	0.7945701357466064
-lr	1.0

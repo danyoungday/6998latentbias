@@ -1,3 +1,0 @@
-crowspairs/disability_gpt2-xl
-ccs	1.0
-lr	1.0

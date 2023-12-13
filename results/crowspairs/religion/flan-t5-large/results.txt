@@ -1,3 +1,0 @@
-crowspairs/religion/flan-t5-large
-ccs	1.0
-lr	0.95

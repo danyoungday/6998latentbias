@@ -1,3 +1,0 @@
-crowspairs/flan-t5-large
-ccs	0.7789600388372759
-lr	0.8526688575128857

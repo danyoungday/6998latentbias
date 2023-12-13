@@ -1,3 +1,0 @@
-crowspairs/age/flan-t5-small
-ccs	0.4886762360446571
-lr	0.6636500754147813

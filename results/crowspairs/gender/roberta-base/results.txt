@@ -1,3 +1,3 @@
-crowspairs/gender/roberta-base
-ccs	0.8125
+gender/roberta-base
+ccs	0.78125
 lr	0.84375

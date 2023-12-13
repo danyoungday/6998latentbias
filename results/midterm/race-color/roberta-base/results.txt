@@ -1,3 +1,0 @@
-crowspairs/race-color/roberta-base
-ccs	0.8935006893928589
-lr	0.9578947368421052

@@ -1,3 +1,0 @@
-crowspairs/religion/roberta-base
-ccs	0.693939393939394
-lr	0.9

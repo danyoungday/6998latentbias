@@ -1,3 +1,0 @@
-crowspairs/race-color/flan-t5-large
-ccs	0.862701196198863
-lr	0.9262176420071158

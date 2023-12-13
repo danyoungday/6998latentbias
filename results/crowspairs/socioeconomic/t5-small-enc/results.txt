@@ -1,3 +1,3 @@
-crowspairs/socioeconomic/t5-small-enc
-ccs	0.78125
+socioeconomic/t5-small-enc
+ccs	0.84375
 lr	0.90625

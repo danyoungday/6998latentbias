@@ -1,3 +1,0 @@
-crowspairs/nationality/gpt2-xl
-ccs	0.9342592592592591
-lr	1.0

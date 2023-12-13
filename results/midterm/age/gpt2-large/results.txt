@@ -1,3 +1,0 @@
-crowspairs/age/gpt2-large
-ccs	0.6666666666666666
-lr	0.8666666666666667

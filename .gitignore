@@ -4,3 +4,4 @@ saved/
 .venv/
 __pycache__/
 BACKUP/
+figures/

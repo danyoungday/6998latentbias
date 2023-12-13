@@ -1,3 +1,0 @@
-crowspairs/gender/gpt2
-ccs	0.7173423423423423
-lr	0.7801551551551552

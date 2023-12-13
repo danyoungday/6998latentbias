@@ -1,3 +1,0 @@
-crowspairs/religion/t5-large-enc
-ccs	0.8947368421052632
-lr	0.8947368421052632

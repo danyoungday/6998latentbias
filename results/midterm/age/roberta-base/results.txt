@@ -1,3 +1,0 @@
-crowspairs/age/roberta-base
-ccs	0.6909090909090909
-lr	0.9320574162679426

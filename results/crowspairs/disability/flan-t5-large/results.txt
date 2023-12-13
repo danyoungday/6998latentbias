@@ -1,3 +1,0 @@
-crowspairs/disability/flan-t5-large
-ccs	1.0
-lr	0.9166666666666666

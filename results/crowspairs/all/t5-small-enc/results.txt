@@ -1,3 +1,3 @@
-crowspairs/age_disability_gender_nationality_physical-appearance_race-color_religion_sexual-orientation_socioeconomic/t5-small-enc
-ccs	0.7403100775193798
+all/t5-small-enc
+ccs	0.7325581395348837
 lr	0.7945736434108527

@@ -1,3 +1,3 @@
-crowspairs/disability/gpt2-xl
+disability/gpt2-xl
 ccs	1.0
 lr	1.0

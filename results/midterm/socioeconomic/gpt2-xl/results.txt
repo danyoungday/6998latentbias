@@ -1,3 +1,0 @@
-crowspairs/socioeconomic/gpt2-xl
-ccs	0.8442118226600985
-lr	0.9065270935960591
