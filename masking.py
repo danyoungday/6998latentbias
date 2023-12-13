@@ -1,3 +1,7 @@
+"""
+Helper functions for MSP.
+"""
+
 import difflib
 
 def get_overlap_indices(pos, neg):

@@ -1,3 +1,7 @@
+"""
+Functions used to create and train CCS models.
+"""
+
 import copy
 import numpy as np
 import os
